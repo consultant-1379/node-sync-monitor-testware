@@ -1,0 +1,2 @@
+commandToSend,expectedResponse
+alarm enable ${rbsNodeId},[NetworkElement=${rbsNodeId}]Alarm Supervision has been enabled successfully for 1 instance(s).

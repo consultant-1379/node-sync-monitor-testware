@@ -1,0 +1,2 @@
+networkElementId,ipAddress,nodeType,platformType,ossModelIdentity,ossPrefix,timeZone,port,transportType,rootUserName,rootUserPassword,secureUserName,secureUserPassword,normalUserName,normalUserPassword
+RNC02RBS01,,RBS,CPP,"",,,,,,,,,,

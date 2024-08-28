@@ -1,0 +1,3 @@
+username,firstName,lastName,email,password,enabled,roles,roleName,targetGroupName
+nodesyncmonitor_administrator,NodeSyncMonitor,Admin,abc.xyz@ericsson.com,NodeSyncMonitor01,true,ADMINISTRATOR,ADMINISTRATOR,ALL
+cmedit_nodesync_admin,CmeditNodeSync,Admin,abc.xyz@ericsson.com,CmeditNodeSync01,true,Cmedit_Administrator,Cmedit_Administrator,ALL

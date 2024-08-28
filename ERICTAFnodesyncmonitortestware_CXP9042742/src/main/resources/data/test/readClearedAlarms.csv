@@ -1,0 +1,2 @@
+testCaseId,commandToSend,expectedResponse
+TORF-596978-2,"alarm get ${rbsNodeId} --alarmState CLEARED_UNACKNOWLEDGED --specificProblem ""CM unsynchronized""","Total number of alarms fetched for the given query is :1"

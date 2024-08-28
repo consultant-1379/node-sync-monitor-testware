@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Node Sync Monitor - Doozers">
+  <test name="Node Sync Monitor Test Suite" preserve-order="true">
+    <classes>
+      <class name="com.ericsson.oss.services.nodesyncmonitor.scenarios.NodeSyncMonitorScenarios">
+          <methods>
+            <include name="triggerAlarm"/>
+            <include name="clearAlarm"/>
+          </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
